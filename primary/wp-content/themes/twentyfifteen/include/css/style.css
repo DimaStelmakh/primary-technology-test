@@ -1,0 +1,29 @@
+
+.read-more {
+    float: right;
+    width: 300px;
+    border: 1px solid #9db1cc;
+    border-radius: 6px;
+    padding: 5px 10px;
+    margin-right: 50px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.my_table{
+
+    border: none;
+    border-top: double;
+    font-size: 17px;
+}
+
+.my_table td {
+    border: none;
+}
+
+.my_table .thumbnail{
+    vertical-align: middle;
+    text-align: center;
+}
+
